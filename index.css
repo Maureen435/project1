@@ -24,12 +24,6 @@ nav > ul > li {
     display: inline-block;
     padding: 10px;
 }
-/*nav > ul > {
-    text-align: centre;
-}
-nav > ul > li > a:hover {
-    text-decoration: none;
-}*/
 .home {
     background-repeat: no-repeat;
     background-position: center;
@@ -68,4 +62,9 @@ body {
     color: aliceblue;
     padding-bottom: 2%;
     width: 100%;
+}
+.image {
+    width: 300px;
+    height: 300px;
+
 }
