@@ -11,4 +11,6 @@
      visual studio, github,terminal.
 
  ### License 
-   License under          
+   License under MIT license.
+   
+             
